@@ -126,3 +126,4 @@ KM los_hospital BY inr_Abnorm1
   /TEST LOGRANK BRESLOW TARONE
   /COMPARE OVERALL POOLED.
 
+  * © Fahad S. Ahmed, MD
