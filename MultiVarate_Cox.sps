@@ -146,4 +146,4 @@ COXREG los_hospital
   /PRINT=CI(95)
   /CRITERIA=PIN(.05) POUT(.10) ITERATE(20). 
 
-
+* © Fahad S. Ahmed, MD
