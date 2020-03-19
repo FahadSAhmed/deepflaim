@@ -7,3 +7,5 @@ FREQUENCIES VARIABLES=Age LOS DOD_1_0 admission_type admission_location discharg
     ptt_Abnorm1 pt_Abnorm1 sodium_Abnorm1 bun_Abnorm1 wbc_Abnorm1 bilirubin_Abnorm1 inr_Abnorm1
   /STATISTICS=STDDEV RANGE MINIMUM MAXIMUM MEAN MEDIAN MODE SUM
   /ORDER=ANALYSIS. 
+
+  * © Fahad S. Ahmed, MD
