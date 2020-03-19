@@ -267,3 +267,4 @@ COPY (SELECT *
 	INNER JOIN Trauma_icu ON vitalsfirstday.hadm_id = Trauma_icu.hadm_id)
 To 'c:/mimic/Trauma_icu_vitalsfirstday.csv' WITH CSV HEADER;
 
+© Fahad S. Ahmed 2020
