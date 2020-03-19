@@ -144,6 +144,6 @@ COXREG los_hospital
   /CONTRAST (Ethino_short)=Indicator
   /METHOD=ENTER Ethino_short gender Age inr_Abnorm1 
   /PRINT=CI(95)
-  /CRITERIA=PIN(.05) POUT(.10) ITERATE(20).
+  /CRITERIA=PIN(.05) POUT(.10) ITERATE(20). 
 
 
